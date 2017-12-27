@@ -12,3 +12,6 @@ Steps:
 2)Class squareX extends ShapeX
 3)Class Line extends ShapeX
 4)Create FActoryPatternTest
+
+
+References: https://www.journaldev.com/1392/factory-design-pattern-in-java
